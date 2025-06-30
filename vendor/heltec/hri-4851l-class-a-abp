@@ -1,0 +1,41 @@
+name: HRI-4851L(Class A ABP)
+description: The HelTec HRI-4851L(Class A ABP) is a RS485-LoRaWAN wireless converter based on ESP32C3 and SX1262. It supports Wi-Fi and LoRaWAN communication. The board has a 35mm din rack rail mount, wide voltage input of DC 4.5~28V, max. TX power of 21±1 dbm and a max. receiving sensitivity	-134dBm .
+
+firmwareVersions:
+  - version: '1.04'
+    numeric: 1
+    profiles:
+      EU863-870:
+        id: profile-eu868-class-a-abp
+      US902-928:
+        id: profile-us915-class-a-abp
+      AU915-928:
+        id: profile-au915-class-a-abp
+      AS923:
+        id: profile-as923-class-a-abp
+      EU433:
+        id: profile-eu433-class-a-abp
+      CN470-510:
+        id: profile-cn470-class-a-abp
+      IN865-867:
+        id: profile-in865-class-a-abp
+      KR920-923:
+        id: profile-kr920-class-a-abp
+
+deviceType: 35mm din rail rack mount
+
+dimensions:
+  width: 29
+  length: 92
+  height: 66
+
+operatingConditions:
+  temperature:
+    min: -40
+    max: 85
+
+productURL: https://heltec.org/project/rs485-lorawan-wireless-converter/
+dataSheetURL: https://resource.heltec.cn/download/HRI-485X/HRI-485x.pdf
+
+photos:
+  main: hri-4851l.png
