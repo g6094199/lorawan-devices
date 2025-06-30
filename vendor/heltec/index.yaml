@@ -42,6 +42,26 @@ endDevices:
   - cubecell-module-plus-class-c-otaa
   - cubecell-module-plus-class-a-abp
   - cubecell-module-plus-class-c-abp
+  # RS485-LoRaWAN Wireless Converter
+  - hri-4851l-class-a-otaa
+  - hri-4851l-class-c-otaa
+  - hri-4851l-class-a-abp
+  - hri-4851l-class-c-abp
+  # LoRa Kit 151
+  - lora-kit-151-class-a-otaa
+  - lora-kit-151-class-c-otaa
+  - lora-kit-151-class-a-abp
+  - lora-kit-151-class-c-abp
+  # LoRa Node 151
+  - lora-node-151-class-a-otaa
+  - lora-node-151-class-c-otaa
+  - lora-node-151-class-a-abp
+  - lora-node-151-class-c-abp
+  # Turtle Board
+  - turtle-board-class-a-otaa
+  - turtle-board-class-c-otaa
+  - turtle-board-class-a-abp
+  - turtle-board-class-c-abp
   # WiFi LoRa 32 (V2)
   - wifi-lora-32-class-a-otaa
   - wifi-lora-32-class-c-otaa
@@ -62,23 +82,3 @@ endDevices:
   - wireless-shell-class-c-otaa
   - wireless-shell-class-a-abp
   - wireless-shell-class-c-abp
-  # LoRa Kit 151
-  - lora-kit-151-class-a-otaa
-  - lora-kit-151-class-c-otaa
-  - lora-kit-151-class-a-abp
-  - lora-kit-151-class-c-abp
-  # LoRa Node 151
-  - lora-node-151-class-a-otaa
-  - lora-node-151-class-c-otaa
-  - lora-node-151-class-a-abp
-  - lora-node-151-class-c-abp
-  # RS485-LoRaWAN Wireless Converter
-  - hri-4851l-class-a-otaa
-  - hri-4851l-class-c-otaa
-  - hri-4851l-class-a-abp
-  - hri-4851l-class-c-abp
-  # Turtle Board
-  - turtle-board-class-a-otaa
-  - turtle-board-class-c-otaa
-  - turtle-board-class-a-abp
-  - turtle-board-class-c-abp
