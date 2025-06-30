@@ -72,6 +72,11 @@ endDevices:
   - lora-node-151-class-c-otaa
   - lora-node-151-class-a-abp
   - lora-node-151-class-c-abp
+  # RS485-LoRaWAN Wireless Converter
+  - hri-4851l-class-a-otaa
+  - hri-4851l-class-c-otaa
+  - hri-4851l-class-a-abp
+  - hri-4851l-class-c-abp
   # Turtle Board
   - turtle-board-class-a-otaa
   - turtle-board-class-c-otaa
